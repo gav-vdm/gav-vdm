@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @gav-vdm
+- 👀 I’m interested in websites and networks.
+- 🌱 I’m currently learning html css and javascript.
