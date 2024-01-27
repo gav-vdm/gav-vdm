@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @gav-vdm
-- 👀 I’m interested in websites and networks.
-- 🌱 I’m currently learning html css and javascript.
+- 👀 I’m interested in Game developmen.
+- 🌱 I’m currently learning Unity.
