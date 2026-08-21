@@ -1,45 +1,87 @@
-# 👋 Hey there, I’m Gavin (@gav-vdm)  
+# 👋 Hi, I'm Gavin
 
-## 🚀 About Me  
-- 🎮 Interested in **Game Development** (Unity, C#, design patterns in games). I’m not actively developing right now, but it’s a field I’d like to pursue after school.  
-- 🌱 Currently learning **Unity** and improving my general coding skills.  
-- 🏠 Running a **homelab** with **Proxmox, Docker, and Linux** where I experiment with virtualization, networking, and self-hosted services.  
-- 🌐 Doing some **basic web development** — currently working on my personal website.  
-- 🔌 Looking into getting started with **Arduino & ESP32 boards** to explore electronics and IoT projects.  
+### Software Engineering Student • Full-Stack Developer • Unity Game Developer • Infrastructure Enthusiast
 
----
+I'm a **Software Engineering student** from **Cape Town, South Africa 🇿🇦** with a passion for building software, designing infrastructure, and continuously learning new technologies.
 
-## 🛠️ Tech Stack  
-
-**Languages & Frameworks**  
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)  
-![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
-![HTML5](https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-
-**Homelab & DevOps**  
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000.svg?style=for-the-badge&logo=proxmox&logoColor=white)  
-![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)  
-![Linux](https://img.shields.io/badge/linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)  
-![Git](https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)  
-
-**Electronics (future)**  
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)  
-![ESP32](https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white)  
+My interests span **full-stack web development**, **Unity game development**, **homelabs**, **networking**, **cloud infrastructure**, and **DevOps**. I enjoy building projects that solve real problems while expanding my knowledge across the software stack.
 
 ---
 
-## ⚡ Fun Facts  
-- I love breaking things in my homelab… and then fixing them (best way to learn 😅).  
-- I’m curious about how different areas of tech connect — from servers to small IoT boards.  
-- Tinkering with tech is my way of relaxing, even when it’s just testing small setups.  
+## 🚀 About Me
+
+- 🎓 Studying **Software Engineering**
+- 💻 Building modern **full-stack web applications**
+- 🎮 Developing games with **Unity** and **C#**
+- 🏠 Running a **Proxmox homelab** to learn virtualization, networking, and self-hosting
+- 🐳 Learning **Docker**, **Kubernetes**, Linux, and cloud technologies
+- 🌐 Building my personal website at **gavinvdm.dev**
+- 📚 Always learning and building something new
 
 ---
 
-## 📊 GitHub Stats  
+## 🛠️ Tech Stack
 
-![Gavin's GitHub stats](https://github-readme-stats.vercel.app/api?username=gav-vdm&show_icons=true&theme=tokyonight)  
+### 💻 Languages
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 🌐 Web Development
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### 🎮 Game Development
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+
+### ⚙️ Infrastructure
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-## 🤝 Let’s Connect  
-👉 Feel free to connect, share ideas, or geek out about games, homelabs, or electronics! 
+
+## 📌 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🌐 **Portfolio** | Personal portfolio showcasing my projects, experience, and technical skills. |
+| 👕 **VC** | A modern clothing brand and e-commerce platform built with modern web technologies. |
+| 🏠 **Homelab** | Infrastructure powered by Proxmox, Docker, Linux, and self-hosted services. |
+| 🎮 **Unity Projects** | Game prototypes, mechanics, and experiments built with Unity and C#. |
+
+---
+
+## 🌱 Currently Learning
+
+- Kubernetes
+- Cloud Infrastructure
+- DevOps
+- System Design
+- Networking
+- Embedded Systems (Arduino & ESP32)
+
+---
+
+## 🤝 Connect With Me
+
+🌐 **Portfolio**  
+**https://gavinvdm.dev**
+
+💼 **LinkedIn**  
+**https://linkedin.com/in/gav-vdm**
+
+🐙 **GitHub**  
+**https://github.com/gav-vdm**
+
+---
+
+> **"Always building. Always learning."** 🚀
