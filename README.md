@@ -1,3 +1,4 @@
+
 # 👋 Hi, I'm Gavin
 
 ### Software Engineering Student • Full-Stack Developer • Unity Game Developer • Infrastructure Enthusiast
@@ -15,7 +16,6 @@ My interests span **full-stack web development**, **Unity game development**, **
 - 🎮 Developing games with **Unity** and **C#**
 - 🏠 Running a **Proxmox homelab** to learn virtualization, networking, and self-hosting
 - 🐳 Learning **Docker**, **Kubernetes**, Linux, and cloud technologies
-- 🌐 Building my personal website at **gavinvdm.dev**
 - 📚 Always learning and building something new
 
 ---
@@ -53,10 +53,9 @@ My interests span **full-stack web development**, **Unity game development**, **
 
 | Project | Description |
 |----------|-------------|
-| 🌐 **Portfolio** | Personal portfolio showcasing my projects, experience, and technical skills. |
-| 👕 **VC** | A modern clothing brand and e-commerce platform built with modern web technologies. |
+| 👕 **VC** | A clothing storefront project using modern web technologies. |
 | 🏠 **Homelab** | Infrastructure powered by Proxmox, Docker, Linux, and self-hosted services. |
-| 🎮 **Unity Projects** | Game prototypes, mechanics, and experiments built with Unity and C#. |
+| 🎮 **Unity Projects** | Game prototypes and mechanics built with Unity and C#. |
 
 ---
 
@@ -72,9 +71,6 @@ My interests span **full-stack web development**, **Unity game development**, **
 ---
 
 ## 🤝 Connect With Me
-
-🌐 **Portfolio**  
-**https://gavinvdm.dev**
 
 💼 **LinkedIn**  
 **https://linkedin.com/in/gav-vdm**
